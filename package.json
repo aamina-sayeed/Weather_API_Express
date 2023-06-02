@@ -1,0 +1,26 @@
+{
+  "name": "weather_api_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamina-sayeed/Weather_API_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamina-sayeed/Weather_API_Express/issues"
+  },
+  "homepage": "https://github.com/aamina-sayeed/Weather_API_Express#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "config": "^3.3.9",
+    "express": "^4.18.2"
+  }
+}
